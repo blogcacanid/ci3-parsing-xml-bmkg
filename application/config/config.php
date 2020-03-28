@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/ci3-parsing-xml-bmkg/';
+$config['base_url'] = 'http://localhost/ci3-parsing-json-covid-19/';
 
 /*
 |--------------------------------------------------------------------------
